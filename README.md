@@ -13,6 +13,8 @@ C\Users\Administrator\Downloads\Telegram Desktop\SANS SEC401
 <br> to get info form MFT file we will use two tools first one to convert the file to csv file and the second to display the file 
 <br> 1 - MFTcmd  2- timeline explorer
 <br> the time is 2024-02-03 07:33:20
+![11](https://github.com/0xT7N/ctf3/assets/75274517/cd12a225-ed74-4a94-ae8f-40b81b2f5f61)
+
 ![2](https://github.com/0xT7N/ctf3/assets/75274517/cb8d0391-be98-4695-9be8-356edb5bf0cd)
 # Q3 Knowing which vulnerability was exploited is key to improving security. What is the CVE identifier of the vulnerability used in this attack?
 <br> in this question threat intelligence helped us to detect a cve using two website **1- virustotal   2-any.run**
@@ -58,6 +60,7 @@ C\Users\Administrator\Downloads\Telegram Desktop\SANS SEC401
 <br> while searching i found a file with txt extention have some info about which ip is alive that mean the attacker used tools for ping seep to see which ip is alive 
 <br> to do lateral movement and attack other OS in the same network  
 **C:\Users\Administrator\AppData\Local\Temp\BL4356.txt**
+![12](https://github.com/0xT7N/ctf3/assets/75274517/4ce56341-ec39-4272-8ae4-81cca4b78069)
 
 
 
