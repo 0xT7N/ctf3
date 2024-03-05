@@ -1,5 +1,5 @@
 # SpottedInTheWild challenge
-<br> at the first we will see the challenge with .vhd (virtual hard disk)
+
 # Q1 In your investigation into the FinTrust Bank breach, you found an application that was the entry point for the attack. Which application was used to download the malicious file?
 <br> after investigation in files we found a file called sans sec401 after geting a hash  **74900DD2A29CD5EEBCC259F0265C8425** and check it on virus total we get it is a malicious file 
 <br> i uploaded the file also in any.run sandbox to get more details about a file 
