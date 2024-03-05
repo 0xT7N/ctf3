@@ -1,7 +1,7 @@
 # SpottedInTheWild challenge
 
 # Q1 In your investigation into the FinTrust Bank breach, you found an application that was the entry point for the attack. Which application was used to download the malicious file?
-<br> after investigation in files we found a file called sans sec401 after geting a hash  **74900DD2A29CD5EEBCC259F0265C8425** and check it on virus total we get it is a malicious file 
+<br> after investigation in files we found a file called sans sec401 after geting a hash  **1FBD3CA9FCFEA5AAC390EA38FF818CC9** and check it on virus total we get it is a malicious file 
 <br> i uploaded the file also in any.run sandbox to get more details about a file 
 <br> so the application was used to download the malicious file is **telegram**
 C\Users\Administrator\Downloads\Telegram Desktop\SANS SEC401
