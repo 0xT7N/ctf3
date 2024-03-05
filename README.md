@@ -54,7 +54,10 @@ C\Users\Administrator\Downloads\Telegram Desktop\SANS SEC401
 <br> we will found it **schtasks /create /sc minute /mo 3 /tn "whoisthebaba" /tr C:\Windows\Temp\run.bat /RL HIGHEST**
 ![9](https://github.com/0xT7N/ctf3/assets/75274517/573b1c5f-f9bc-428b-8d14-f2ab06b425a2)
 ![10](https://github.com/0xT7N/ctf3/assets/75274517/bd3fbf44-ab87-4e55-b695-57923fd79ffe)
-
+# To understand the attacker's data exfiltration strategy, we need to locate where they stored their harvested data. What is the full path of the file storing the data collected by one of the attacker's tools in preparation for data exfiltration?
+<br> while searching i found a file with txt extention have some info about which ip is alive that mean the attacker used tools for ping seep to see which ip is alive 
+<br> to do lateral movement and attack other OS in the same network  
+**C:\Users\Administrator\AppData\Local\Temp\BL4356.txt**
 
 
 
